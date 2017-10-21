@@ -1,2 +1,2 @@
 # java_base
-java语法联系
+java语法练习
